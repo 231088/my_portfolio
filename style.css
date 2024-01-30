@@ -186,6 +186,23 @@ h1{
     font-size: 30px;
 }
 
+#info-shadow-area > .info-content > a{
+    width: 80%;
+    text-align: center;
+    font-size: 30px;
+    color: #0000ff;
+    text-decoration: underline;
+}
+
+#info-shadow-area > .info-content > a:visited{
+    width: 80%;
+    text-align: center;
+    font-size: 30px;
+    color: #551a8b;
+    text-decoration: underline;
+}
+    
+
 #info-shadow-area > .info-content > .close-button{
     width: 25%;
     text-align: center;
